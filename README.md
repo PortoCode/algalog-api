@@ -1,6 +1,6 @@
 # AlgaLog API
 
-AlgaLog is a delivery management REST API developed by Java Spring.
+AlgaLog is a delivery management REST API developed with Java Spring.
 
 ## Modeling
 
